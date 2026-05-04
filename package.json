@@ -1,0 +1,6 @@
+{
+  "name": "agent-cala-generador-de-contrase-as-segur-moqyn1qz",
+  "version": "1.0.0",
+  "description": "Proyecto de Cala [Gen3]: generador de contraseñas seguras con entropía",
+  "main": "index.js"
+}
